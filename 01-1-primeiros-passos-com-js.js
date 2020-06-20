@@ -19,7 +19,7 @@ if(imc >= 30) {
 const nome = "Silvana";
 const sexo = "F";
 const idade = 48;
-const contribuicao = 31;
+const contribuicao = 28;
 // Baseado nos valores acima utilize as fórmulas a seguir para calcular se a pessoa está apta ou não para se aposentar e no fim imprima uma mensagem em tela.
 // O tempo de contribuição mínimo para homens é de 35 anos e, para mulheres, 30 anos;
 if ( contribuicao <= 30) {
