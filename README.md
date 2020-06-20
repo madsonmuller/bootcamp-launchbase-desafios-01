@@ -8,7 +8,5 @@
 
 Desafios Módulo 1 - Introdução a Programação WEB
 
-<ul>
-    <li>Primeiros passos com JavaScript</li>
-</ul>
+[Primeiros passos com JavaScript](/desafio1-1.js)
 
