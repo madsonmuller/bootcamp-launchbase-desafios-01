@@ -1,2 +1,2 @@
-# bootcamp-launchbase-desafios-01
+# Bootcamp Launchbase Desafios
 Desafios Módulo 1 - Introdução a Programação WEB
