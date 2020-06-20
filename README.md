@@ -8,6 +8,8 @@
 
 Desafios Módulo 1 - Introdução a Programação WEB
 
-[Primeiros passos com JavaScript](/01-1-primeiros-passos-com-js.js)
-[Lidando com objetos e vetores](/01-2-lidando-com-objetos-e-vetores.js)
+- [IMC](/01-1-imc.js)
+- [Aposentadoria](/01-1-aposentadoria.js)
+- [Programador](/01-1-programador.js)
+- [Empresa](/01-1-Empresa.js)
 
